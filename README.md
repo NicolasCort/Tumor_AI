@@ -64,8 +64,8 @@ Install the required packages using pip:
 ## Contributions
 Contributions to this project are welcome! If you want to contribute, please follow these steps:
 
-Fork this repository
-Clone the forked repository to your local machine
-Make the desired changes and commit them
-Push the changes to your forked repository
-Submit a pull request to this repository
+- Fork this repository
+- Clone the forked repository to your local machine
+- Make the desired changes and commit them
+- Push the changes to your forked repository
+- Submit a pull request to this repository
