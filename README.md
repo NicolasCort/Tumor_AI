@@ -7,7 +7,7 @@ Here is an example of a brain tumor:
   <img src="mri brain mask.png" width="800" height="250" align="center"> 
 </p>
 
-The first image is the MRI scan, the second the tumor detected with a mask and the third the mask+ MRI scan
+The first image is the MRI scan, the second the tumor detected with a mask and the third the mask+ MRI scan.
 
 
 ## Libraries
